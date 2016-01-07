@@ -1,6 +1,6 @@
 name: Ignite Your Intuition In 21 Days
 favicon: null
-layout_spectrum: 0.09308672253973782
+layout_spectrum: 0.49771
 typography_spectrum: 0.07532018166966736
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#ffffff'
+    - '#0a0502'
+    - '#9f9f9f'
+    - '#b96f3e'
+    - '#7e3312'
   brandStrength: 0.3004970094189048
   lightness: 0.899138098815456
   saturation: 0.7792860253248364
