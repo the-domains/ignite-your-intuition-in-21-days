@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Ignite Your Intuition In 21 Days]]></title>
+        <description><![CDATA[Ignite Your Intuition In 21 Days]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 07 Jan 2016 21:34:06 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ignite Your Intuition in 21 Days Challenge]]></title>
+            <description><![CDATA[<article><h1>Ignite Your Intuition in 21 Days Challenge</h1><p>Reclaim your intuitive powers and ignite your life in 21 days! </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8044eb67459b1f1f84a0f75d4939c87d2ddaa2a7.jpg"></article>]]></description>
+            <link>undefinedignite-your-intuition-in-21-days-challenge/index.html</link>
+            <guid isPermaLink="false">a726045c-80d1-4e27-a5af-7dbb90cc18ce</guid>
+            <pubDate>Thu, 07 Jan 2016 21:34:06 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
